@@ -37,7 +37,7 @@ def mess(message):
         get_message_bot = message.text.strip()
 
         if 'https' in get_message_bot:
-            if 'https://www.youtube.com/watch' in get_message_bot:
+            if 'https://www.youtube.com/watch' or 'https://www.youtube.com/shorts' in get_message_bot:
                 db_conn.set_last_link(message.chat.id, get_message_bot)
                 bot.send_message(message.chat.id, lang[db_conn.get_user_lang(message.chat.id)]['Please_choose'],
                                  reply_markup=choose_video_or_audio(message))
