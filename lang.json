@@ -7,7 +7,9 @@
     "En_btn": "English",
     "Send_me_link": "Отправьте мне ссылку на видео из YouTube",
     "Please_choose": "Выберите пожалуйста.",
-    "Not_yt_link": "Ссылка не из YouTube!"
+    "Not_yt_link": "Ссылка не из YouTube!",
+    "Choose_resolution": "Выберите разрешение.",
+    "Wait": "Подождите"
 
 
 
@@ -20,7 +22,9 @@
     "En_btn": "English",
     "Send_me_link": "Menga YouTube dan havola yuboring.",
     "Please_choose": "Iltimos tanlang.",
-    "Not_yt_link": "Havola YouTube dan emas!"
+    "Not_yt_link": "Havola YouTube dan emas!",
+    "Choose_resolution": "Sifatini tanlang.",
+    "Wait": "Kuting"
 },
   "en" : {
     "Choose_lang": "Choose language",
@@ -29,6 +33,8 @@
     "En_btn": "English",
     "Send_me_link": "Send me link from YouTube.",
     "Please_choose": "Please choose.",
-    "Not_yt_link": "Link not from YouTube!"
+    "Not_yt_link": "Link not from YouTube!",
+    "Choose_resolution": "Choose resolution.",
+    "Wait": "Wait"
   }
 }
